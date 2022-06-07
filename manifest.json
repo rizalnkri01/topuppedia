@@ -1,10 +1,10 @@
 {
 
-  "name": "Javavbphp",
+  "name": "Top Up Pedia",
 
-  "short_name": "Javavbphp",
+  "short_name": "T-Pedia",
 
-  "start_url": "https://www.javavbphp.com/",
+  "start_url": "https://topuppedia.com",
 
   "display": "standalone",
 
@@ -12,11 +12,11 @@
 
   "theme_color": "#243b99",
 
-  "description": "Seorang Blogger yang terobsesi oleh trends teknologi",
+  "description": "Top Up Pedia Adalah Layanan Top Up Game Terpercaya Dan Otomatis",
 
   "icons": [{
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s48/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "48x48",
 
@@ -24,7 +24,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s72/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "72x72",
 
@@ -32,7 +32,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s96/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "96x96",
 
@@ -40,7 +40,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s144/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "144x144",
 
@@ -48,7 +48,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s168/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "168x168",
 
@@ -56,7 +56,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s192/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "192x192",
 
@@ -64,7 +64,7 @@
 
   }, {
 
-    "src": "https://1.bp.blogspot.com/-1V9c_y14v-0/XcE08Ge-UII/AAAAAAAADlk/EEbXQ6NZlrornOReqrCrxhgVBXtJBTtzQCLcBGAsYHQ/s512/Java-Logo.png",
+    "src": "https://topuppedia.com/assets/images/tl-icon.png",
 
     "sizes": "512x512",
 
